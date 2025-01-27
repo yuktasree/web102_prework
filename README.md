@@ -31,7 +31,7 @@ The following **optional** features are implemented: <br>
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](assets/thumbnail.png)](https://www.youtube.com/watch?v=j3E9Yn3wd6g)
+[(assets/thumbnail.png)](https://www.youtube.com/watch?v=j3E9Yn3wd6g)
 
 
 ## Notes
