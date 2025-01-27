@@ -11,34 +11,34 @@ Time spent: Approximately **10** hours were spent in total on this project.
 The following **required** functionality has been completed:
 
 * [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section displays:
-	•	Total contributions made by backers.
-	•	Total dollars raised.
+* [ ] The Stats section displays: <br>
+	•	Total contributions made by backers. <br>
+	•	Total dollars raised. <br>
 	•	The top two most funded games.
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding.
-* [ ] The Our Games section includes three filter buttons:
-	•	“Show Unfunded Only” displays only games that haven’t met their funding goal.
-	•	“Show Funded Only” displays only successfully funded games.
+* [ ] The Our Games section includes three filter buttons: <br>
+	•	“Show Unfunded Only” displays only games that haven’t met their funding goal. <br>
+	•	“Show Funded Only” displays only successfully funded games. <br>
 	•	“Show All Games” resets the list to display all games.
 
-The following **optional** features are implemented:
+The following **optional** features are implemented: <br>
 
-* [ ] Improved styling to enhance the website’s visual appeal, including hover effects for buttons and game cards.
-* [ ] Added dynamic text in the introduction section using JavaScript to make the content interactive.
+* [ ] Improved styling to enhance the website’s visual appeal, including hover effects for buttons and game cards. <br>
+* [ ] Added dynamic text in the introduction section using JavaScript to make the content interactive. <br>
 * [ ] Highlighted the top two most funded games in a dedicated section.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/Web102_Prework.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/Web102_Prework.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
 
-Challenges Encountered:
-	1.	Git Remote Configuration: Initially, there was an issue pushing changes to the correct repository, which was resolved by updating the remote URL to point to the forked repository.
-	2.	Filtering Games: Properly implementing the “Show Unfunded Only” and “Show Funded Only” filters required careful use of the filter() method and DOM manipulation.
+Challenges Encountered: <br>
+	1.	Git Remote Configuration: Initially, there was an issue pushing changes to the correct repository, which was resolved by updating the remote URL to point to the forked repository. <br>
+	2.	Filtering Games: Properly implementing the “Show Unfunded Only” and “Show Funded Only” filters required careful use of the filter() method and DOM manipulation. <br>
 	3.	Dynamic Stats Update: Ensuring the stats updated dynamically when games were filtered was a rewarding challenge.
 
 ## License
